@@ -1,3 +1,7 @@
+---
+icon: html5
+---
+
 # \<footer>
 
 The `<footer>` tag in HTML is used to define the footer section of a webpage or a section of content. It typically contains information like copyright notices, links, contact details, or related navigation.
