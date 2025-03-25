@@ -41,7 +41,8 @@
 
 ***
 
-* [Page](page.md)
+* [HTML jscom](https://html-css-js.com/html/)
+* [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 
 ## HTML Tags
 
@@ -73,6 +74,8 @@
 ***
 
 * [Apa Itu Selector CSS?](apa-itu-selector-css.md)
+* [Properti CSS](properti-css.md)
+* [CSS CheatSheet](https://htmlcheatsheet.com/css/)
 
 ## Documents
 
