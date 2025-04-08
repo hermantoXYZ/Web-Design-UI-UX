@@ -81,3 +81,7 @@
 
 * [Cover HTML5 & CSS](documents/cover-html5-and-css.md)
 * [Practice Layouts](documents/practice-layouts.md)
+
+## Atomic Design Methodology
+
+* [Pengantar](atomic-design-methodology/pengantar.md)
