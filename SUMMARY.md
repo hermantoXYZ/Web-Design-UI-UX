@@ -86,3 +86,8 @@
 
 * [Pengantar](atomic-design-methodology/pengantar.md)
 * [Atomic Design](atomic-design-methodology/atomic-design.md)
+* [Atoms](atomic-design-methodology/atoms.md)
+* [Molecules](atomic-design-methodology/molecules.md)
+* [Organisms](atomic-design-methodology/organisms.md)
+* [Templates](atomic-design-methodology/templates.md)
+* [Pages](atomic-design-methodology/pages.md)

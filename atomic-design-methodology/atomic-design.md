@@ -2,7 +2,7 @@
 
 Gambar ini menunjukkan **reaksi kimia pembentukan air (H₂O)** dari gas **hidrogen (H₂)** dan **oksigen (O₂)**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Gambar ini bukan cuma menggambarkan reaksi kimia, tapi juga menunjukkan bagaimana **kompleksitas struktur molekul** muncul dari **komponen sederhana**, seperti halnya desain antarmuka bisa dibangun dari elemen-elemen kecil yang saling terhubung.
 
@@ -16,7 +16,7 @@ Gambar ini bukan cuma menggambarkan reaksi kimia, tapi juga menunjukkan bagaiman
   Organisme adalah **gabungan dari berbagai molekul** yang bekerja bersama sebagai satu kesatuan.\
   Organisme bisa sesederhana satu sel, atau serumit manusia dan makhluk hidup lainnya.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Metodologi Atomic Design**
 
@@ -26,7 +26,7 @@ Sebelumnya kita sudah bahas bahwa **semua materi di alam semesta** bisa dipecah 
 
 Desainer **Josh Duck** bahkan pernah membuat sesuatu yang disebut **Tabel Periodik Elemen HTML**, yang menunjukkan bahwa **semua website, aplikasi, intranet, atau apapun bentuk digital lainnya sebenarnya dibangun dari elemen HTML yang sama**—seperti `<button>`, `<input>`, `<div>`, `<h1>`, dan seterusnya.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sama seperti **atom membentuk molekul dan organisme**, kita bisa membangun antarmuka:
 
@@ -94,7 +94,7 @@ Contoh:
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dengan _Atomic Design_, kita membangun antarmuka layaknya membangun dari LEGO—mulai dari kepingan kecil yang bisa disusun ulang dan dipakai kembali. Hasilnya:
 

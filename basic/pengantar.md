@@ -13,7 +13,7 @@ icon: browsers
 Statment by: _**Emil Lamprecht**_
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **UI/UX (User Interface/User Experience)** adalah bidang yang berkaitan dengan desain antarmuka dan pengalaman pengguna dalam sebuah produk digital, seperti **aplikasi, website**, atau perangkat lunak laiannya.&#x20;
 
@@ -41,7 +41,7 @@ Desain UI/UX memegang peranan penting dalam keberhasilan setiap produk digital. 
 
 UI/UX yang dirancang dengan baik dapat menjadi pembeda antara produk yang sukses dan produk yang gagal menarik minat pengguna.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _WHY UI/UX Matters?_
 
@@ -73,7 +73,7 @@ Contoh: Situs e-commerce seperti Amazon, Shopee, dan lain-lain. Memprioritaskan 
 
 🚀 UI/UX yang Bagus = Pengguna yang Puas&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## HyperText Markup Language&#x20;
 
