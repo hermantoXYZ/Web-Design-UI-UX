@@ -1,3 +1,7 @@
+---
+icon: atom-simple
+---
+
 # Pages
 
 ## **Pages dalam Atomic Design**

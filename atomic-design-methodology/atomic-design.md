@@ -1,3 +1,7 @@
+---
+icon: atom-simple
+---
+
 # Atomic Design
 
 Gambar ini menunjukkan **reaksi kimia pembentukan air (H₂O)** dari gas **hidrogen (H₂)** dan **oksigen (O₂)**
@@ -16,7 +20,7 @@ Gambar ini bukan cuma menggambarkan reaksi kimia, tapi juga menunjukkan bagaiman
   Organisme adalah **gabungan dari berbagai molekul** yang bekerja bersama sebagai satu kesatuan.\
   Organisme bisa sesederhana satu sel, atau serumit manusia dan makhluk hidup lainnya.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Metodologi Atomic Design**
 

@@ -1,3 +1,7 @@
+---
+icon: atom-simple
+---
+
 # Pengantar
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Ini hanyalah beberapa perangkat terhubung yang perlu kita khawatirkan.</p></figcaption></figure>
@@ -105,3 +109,4 @@
 > ➤ Mempercepat alur kerja tanpa mengorbankan kualitas desain
 
 ***
+

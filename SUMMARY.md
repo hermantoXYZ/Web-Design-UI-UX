@@ -91,3 +91,4 @@
 * [Organisms](atomic-design-methodology/organisms.md)
 * [Templates](atomic-design-methodology/templates.md)
 * [Pages](atomic-design-methodology/pages.md)
+* [Atomic design in theory](atomic-design-methodology/atomic-design-in-theory.md)

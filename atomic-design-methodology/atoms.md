@@ -1,6 +1,10 @@
+---
+icon: atom-simple
+---
+
 # Atoms
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Atom sebagai Dasar Desain Antarmuka**
 
@@ -13,7 +17,7 @@ Atom-atom ini adalah elemen HTML dasar seperti:
 * `<button>` (tombol)
 * dan elemen kecil lainnya
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Atoms include basic HTML tags like inputs, labels, and buttons.
 
