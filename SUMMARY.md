@@ -85,3 +85,4 @@
 ## Atomic Design Methodology
 
 * [Pengantar](atomic-design-methodology/pengantar.md)
+* [Atomic Design](atomic-design-methodology/atomic-design.md)
