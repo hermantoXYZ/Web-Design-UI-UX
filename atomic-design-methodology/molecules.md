@@ -4,7 +4,7 @@ icon: atom-simple
 
 # Molecules
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Molecules dalam Atomic Design**
 

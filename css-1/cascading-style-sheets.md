@@ -8,7 +8,7 @@ icon: file-code
 
 CSS (**Cascading Style Sheets**) adalah bahasa desain yang digunakan untuk mengatur tampilan dan tata letak elemen pada halaman web. CSS memungkinkan kita untuk mengontrol warna, font, ukuran, posisi, animasi, dan responsivitas sebuah website tanpa harus mengubah struktur HTML-nya.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **2. Mengapa CSS Penting?**
 

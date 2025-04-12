@@ -4,7 +4,7 @@ icon: chevrons-up
 
 # What is visual hierarch?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## We’ve all experienced information overload?
 
@@ -16,7 +16,7 @@ icon: chevrons-up
 
 &#x20;<mark style="background-color:green;">**"Visual hierarchy can change that."**</mark>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Source: chartexpo.com</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Source: chartexpo.com</strong></p></figcaption></figure>
 
 ## _"Visual hierarchy is how you guide the viewer’s eyes to what matters most"_
 

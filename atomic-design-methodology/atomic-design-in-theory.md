@@ -9,4 +9,4 @@ icon: atom-simple
 3. **Konten dan desain saling terikat erat**—Atomic Design membantu membuat sistem desain yang sesuai dengan isi konten di dalamnya.
 4. ..serta membantu menciptakan **hierarki yang jelas** dalam sistem desain.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
