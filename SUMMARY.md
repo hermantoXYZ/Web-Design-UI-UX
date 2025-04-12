@@ -92,3 +92,8 @@
 * [Templates](atomic-design-methodology/templates.md)
 * [Pages](atomic-design-methodology/pages.md)
 * [Atomic design in theory](atomic-design-methodology/atomic-design-in-theory.md)
+
+## Visual Hierarchy
+
+* [What is visual hierarch?](visual-hierarchy/what-is-visual-hierarch.md)
+* [Essential visual hierarchy principles](visual-hierarchy/essential-visual-hierarchy-principles.md)
