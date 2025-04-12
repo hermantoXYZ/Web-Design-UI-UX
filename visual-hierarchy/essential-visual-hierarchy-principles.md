@@ -59,6 +59,8 @@ Semua elemen harus disejajarkan untuk menciptakan keteraturan dan keterbacaan. D
 
 Contoh: Teks dan gambar dalam sebuah kolom yang rapi terlihat lebih profesional.
 
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### 5. **Repetition (Pengulangan)**
@@ -66,6 +68,8 @@ Contoh: Teks dan gambar dalam sebuah kolom yang rapi terlihat lebih profesional.
 Pengulangan menciptakan konsistensi dan memperkuat identitas visual. Elemen seperti warna, ikon, dan gaya huruf diulang untuk keseragaman.
 
 Contoh: Menggunakan warna tombol yang sama di seluruh situs.
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -75,6 +79,8 @@ Elemen yang saling berhubungan dikelompokkan bersama. Ini membantu pengguna mema
 
 Contoh: Label dan field formulir harus dekat secara visual.
 
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### 7. **Whitespace (Ruang Kosong)**
@@ -83,6 +89,8 @@ Ruang kosong atau ruang putih membuat desain “bernafas” dan tidak terasa pad
 
 Contoh: Spasi di antara paragraf atau sekitar tombol.
 
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### 8. **Texture and Style (Tekstur dan Gaya)**
@@ -90,5 +98,10 @@ Contoh: Spasi di antara paragraf atau sekitar tombol.
 Penggunaan tekstur atau gaya visual (seperti bayangan, garis, atau efek 3D) dapat memberikan nuansa dan kedalaman, serta membedakan elemen.
 
 Contoh: Bayangan di bawah kartu (card) memberikan kesan elemen mengambang.
+
+* [https://heropatterns.com/](https://heropatterns.com/)
+*
+
+
 
 ***
