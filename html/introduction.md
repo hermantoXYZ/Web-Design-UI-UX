@@ -1,3 +1,7 @@
+---
+icon: html5
+---
+
 # Introduction
 
 **HTML** stands for **HyperText Markup Language**. It is the standard language used to create and structure content on the web.
