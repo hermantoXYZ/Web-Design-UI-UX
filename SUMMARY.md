@@ -99,3 +99,7 @@
 
 * [What is visual hierarch?](visual-hierarchy/what-is-visual-hierarch.md)
 * [Essential visual hierarchy principles](visual-hierarchy/essential-visual-hierarchy-principles.md)
+
+***
+
+* [Quiz](quiz.md)
